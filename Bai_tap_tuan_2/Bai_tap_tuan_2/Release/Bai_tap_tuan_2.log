@@ -1,0 +1,5 @@
+﻿  Controller.cpp
+  model.cpp
+model.cpp(98): warning C4102: 'again': unreferenced label
+  view.cpp
+  Bai_tap_tuan_2.vcxproj -> C:\Users\Cuong\Desktop\C++\Bai_tap_tuan_2\Release\Bai_tap_tuan_2.lib
